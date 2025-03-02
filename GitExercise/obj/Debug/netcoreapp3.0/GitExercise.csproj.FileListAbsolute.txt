@@ -1,0 +1,14 @@
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.GeneratedMSBuildEditorConfig.editorconfig
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.sourcelink.json
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+F:\00_OneDrive\OneDrive - Министерство на образованието и науката\22_IT-Career\GitHub\GitHubDemo2\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
